@@ -19,7 +19,7 @@ while True:  # The main game loop.
             break  # Break out of the player input loop.
             print('Type one of r, p, s, or q.')
 
-    # Display what the player chose:
+    # Display what the player chose
     if playerMove == 'r':
         print('ROCK versus...')
     elif playerMove == 'p':
